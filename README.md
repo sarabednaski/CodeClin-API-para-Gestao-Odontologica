@@ -1,0 +1,1 @@
+API para Gestão Odontológica desenvolvida em .NET para gerenciamento de pacientes, dentistas, consultas e pagamentos. Utiliza Entity Framework Core com PostgreSQL, AutoMapper e Swagger. Implementa CRUD completo, arquitetura Repository Pattern e Service Layer, e está preparada para melhorias como autenticação JWT e logs.
